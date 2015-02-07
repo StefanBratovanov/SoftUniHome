@@ -1,0 +1,14 @@
+// Go to the directory where the *.java files are
+
+stefan@stefan-VirtualBox:~$ cd SoftUni
+stefan@stefan-VirtualBox:~/SoftUni$ cd 01.IntroJavaHomework/
+stefan@stefan-VirtualBox:~/SoftUni/01.IntroJavaHomework$ cd src
+
+// Compile the file using: javac <fileName>.java
+
+stefan@stefan-VirtualBox:~/SoftUni/01.IntroJavaHomework/src$ javac _06_SumTwoNumbers.java
+
+// A class file <fileName>.class is created in the same directory
+// Run the class file to see if it works correctly using: java <fileName>
+
+stefan@stefan-VirtualBox:~/SoftUni/01.IntroJavaHomework/src$ java _06_SumTwoNumbers
